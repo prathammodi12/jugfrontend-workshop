@@ -37,7 +37,7 @@ function App() {
   return (
     <div style={{ backgroundColor: '#2d3a4b', width: '100%', height: '100vh', top: 0, left: 0, position: 'absolute' }}>
       <div className="container">
-        <h1 id="message"></h1>
+        <h1 id="message">React app is running!!</h1>
       </div>
     </div>
   );
